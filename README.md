@@ -1,6 +1,6 @@
-# Play REST API
+# Play Framework REST API
 
-An example of building REST API.
+An example of building REST API, using JWT, unit tests and DB connection with object-document mapper
 
 ## Running
 
