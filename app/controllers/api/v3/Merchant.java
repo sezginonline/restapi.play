@@ -93,10 +93,6 @@ public class Merchant extends Controller {
         return ok(Json.prettyPrint(result)).as("application/json; charset=utf-8");
     }
 
-    public Result index2() {
-        return ok("ok").as("application/json; charset=utf-8");
-    }
-
     /**
      * Authenticated Merchant Endpoint
      * @return Json Result
