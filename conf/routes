@@ -1,0 +1,8 @@
+
+# Higher priority routes first
+
+POST            /api/v3/merchant/user/login         controllers.api.v3.Merchant.userLogin()
+GET             /api/v3/merchant/get                controllers.api.v3.Merchant.get()
+GET             /api/v3/merchant                    controllers.api.v3.Merchant.index()
+
+GET             /favicon.ico                        controllers.Assets.at(path="/public", file="favicon.ico")
