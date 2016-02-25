@@ -1,6 +1,6 @@
 # Play Framework REST API Server
 
-An example of building stateless REST API, using JWT (JSON Web Token), unit tests and MongoDB connection with Morphia object-document mapper
+An example of building stateless REST API, using JWT (JSON Web Token), unit tests and MongoDB connection with Morphia object-document mapper.
 
 ## Running
 
